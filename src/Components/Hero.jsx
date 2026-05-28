@@ -38,7 +38,7 @@ function Hero() {
 
       {/* Contact Quick Info */}
       <p className="text-gray-500 text-sm md:text-base mb-8">
-        📧 nawazraheel777@gmail.com | 📞 +92317055544 | 📍 Islamabad,Pakistan
+        📧 nawazraheel777@gmail.com | 📞 +923170556544 | 📍 Islamabad,Pakistan
       </p>
 
       {/* Buttons */}

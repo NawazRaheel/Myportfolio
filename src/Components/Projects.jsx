@@ -5,8 +5,8 @@ function Projects() {
   {
     title: "Portfolio Website",
     description: "Modern React portfolio with animations and responsive design.",
-    github: "https://github.com/yourname/portfolio",
-    live: "https://yourportfolio.com",
+    github: "https://github.com/NawazRaheel/Myportfolio.git",
+    live: "https://myportfolio-beta-mocha.vercel.app/",
   },
   {
     title: "E-Commerce App",
