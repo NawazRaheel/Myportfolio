@@ -1,10 +1,13 @@
 function Skills() {
   const skills = [
+    "Asp .Net core",
+    "Rest APIs",
     "React",
-    "JavaScript",
-    "Tailwind CSS",
-    ".NET Web API",
+    "Angular",
     "SQL",
+    "JavaScript",
+    "Bootstrap",
+    "Tailwind CSS",
     "Git",
     "GitHub",
     "HTML",
