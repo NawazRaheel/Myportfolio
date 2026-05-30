@@ -22,7 +22,7 @@ function About() {
         <p className="text-gray-400 text-lg leading-8 mb-10">
           Results-driven Software Engineer with 5+ years of experience in Development,troubleshooting,
           application support, and client escalations, including leadership exposure.
-          Skilled in SQL, REST APIs, log analysis, Azure, AWS basics, and enterprise support systems.
+          Skilled in SQL, REST APIs, Azure and AWS Clod watch log analysis, and enterprise support systems.
           Strong communicator with a proven track record of SLA-driven issue resolution
           and cross-functional collaboration across global teams.
         </p>
@@ -34,7 +34,7 @@ function About() {
               Technical Expertise
             </h3>
             <p className="text-gray-400">
-              ASP.NET Core, Angular,React,Node js,SQL Server, REST APIs, Postman, Log Analysis. 
+              ASP.NET Core, Angular, React, Nodejs, SQL Server, REST APIs, Log Analysis. 
             </p>
           </div>
 
@@ -43,7 +43,7 @@ function About() {
               Cloud & Tools
             </h3>
             <p className="text-gray-400">
-              Azure, AWS (Basic), Jira, Salesforce, Datadog, GitHub
+              AWS(CloudWatch), Azure, Jira, Salesforce, Datadog, GitHub
             </p>
           </div>
         </div>

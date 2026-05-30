@@ -6,7 +6,7 @@ function Achievements() {
     {
       title: "Promotion Recognition",
       description:
-        "Promoted to Senior 'Technical support Engineer;. Grateful for the trust and support of the team. Looking forward to tackling new challenges and growing with this opportunity.",
+        "Promoted to Senior 'Technical support Engineer'. Grateful for the trust and support of the team. Looking forward to tackling new challenges and growing with this opportunity.",
       image: senior,
     },
     {

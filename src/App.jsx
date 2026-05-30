@@ -22,7 +22,6 @@ function App() {
         Toggle Theme
       </button>
       <Navbar />
-      
       <Hero />
       <About />
       <Achievements />
