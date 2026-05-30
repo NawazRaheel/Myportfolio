@@ -1,4 +1,5 @@
 import About from "./Components/About";
+import Achievements from "./Components/Achievements";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
 import Hero from "./Components/Hero";
@@ -21,8 +22,10 @@ function App() {
         Toggle Theme
       </button>
       <Navbar />
+      
       <Hero />
       <About />
+      <Achievements />
       <Skills />
       <Projects />
       <Contact />
